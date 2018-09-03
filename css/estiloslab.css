@@ -1,0 +1,60 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.logo{
+	background-color: blue ;
+	text-align: center;
+	color: #EEEEEE;
+}
+.menu{
+	background:orange;
+	overflow: hidden;
+
+}
+.menu ul{
+	list-style: none;
+
+}
+.menu ul li{
+	float: left;
+}
+.menu ul li a{
+	padding: 10px;
+	display: block;
+	color: black;
+	text-decoration: none;
+}
+.rosa{
+	width: 60%;
+	background: pink ;
+	margin: auto;
+
+}
+.programa{
+	text-align:right;
+}
+section{
+	float: left;
+}
+.lateral{
+	text-align: center ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
